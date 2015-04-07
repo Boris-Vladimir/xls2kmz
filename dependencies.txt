@@ -1,0 +1,16 @@
+Python libraries:
+	simplekml - https://pypi.python.org/pypi/simplekml/
+	pillow - https://pypi.python.org/pypi/Pillow/2.2.1
+	xlrd - https://pypi.python.org/pypi/xlrd
+	xlwt - https://pypi.python.org/pypi/xlwt
+
+If you want an exe file:
+	cx_freeze - http://cx-freeze.sourceforge.net/ (if you want an exe file)
+	if exe has errors in tcl:
+		read this - http://stackoverflow.com/questions/5523294/python-3-tkinter-cx-freeze
+		copy that files from python33 folder to the exe folder:
+			tcl85.dll,
+			tk85.dll
+		or, if you use python34:
+			tcl86t.dll,
+			tk86t.dll
