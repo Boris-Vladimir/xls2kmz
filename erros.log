@@ -1,3 +1,0 @@
-INFO:stderr:C:\Users\PureHate\Google Drive\DP\Projetos\xls2kml\src\xls2kmz.py:1662: UserWarning: Duplicate name: 'files/60.jpg'
-  zf.write(image, arcname='files/' + image[image.rfind('\\')+1:])
-
