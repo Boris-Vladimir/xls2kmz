@@ -1,0 +1,54 @@
+INFO:stderr:C:\Users\lvsit\AppData\Local\Programs\Python\Python37\lib\zipfile.py:1470: UserWarning: Duplicate name: 'files/621.png'
+  return self._open_to_write(zinfo, force_zip64=force_zip64)
+
+INFO:stderr:C:\Users\lvsit\AppData\Local\Programs\Python\Python37\lib\zipfile.py:1470: UserWarning: Duplicate name: 'files/620.png'
+  return self._open_to_write(zinfo, force_zip64=force_zip64)
+
+INFO:stderr:C:\Users\lvsit\AppData\Local\Programs\Python\Python37\lib\zipfile.py:1470: UserWarning: Duplicate name: 'files/613.png'
+  return self._open_to_write(zinfo, force_zip64=force_zip64)
+
+INFO:stderr:C:\Users\lvsit\AppData\Local\Programs\Python\Python37\lib\zipfile.py:1470: UserWarning: Duplicate name: 'files/624.png'
+  return self._open_to_write(zinfo, force_zip64=force_zip64)
+
+INFO:stderr:C:\Users\lvsit\AppData\Local\Programs\Python\Python37\lib\zipfile.py:1470: UserWarning: Duplicate name: 'files/625.png'
+  return self._open_to_write(zinfo, force_zip64=force_zip64)
+
+INFO:stderr:C:\Users\lvsit\AppData\Local\Programs\Python\Python37\lib\zipfile.py:1470: UserWarning: Duplicate name: 'files/632.png'
+  return self._open_to_write(zinfo, force_zip64=force_zip64)
+
+INFO:stderr:C:\Users\lvsit\AppData\Local\Programs\Python\Python37\lib\zipfile.py:1470: UserWarning: Duplicate name: 'files/631.png'
+  return self._open_to_write(zinfo, force_zip64=force_zip64)
+
+INFO:stderr:C:\Users\lvsit\AppData\Local\Programs\Python\Python37\lib\zipfile.py:1470: UserWarning: Duplicate name: 'files/615.png'
+  return self._open_to_write(zinfo, force_zip64=force_zip64)
+
+INFO:stderr:C:\Users\lvsit\AppData\Local\Programs\Python\Python37\lib\zipfile.py:1470: UserWarning: Duplicate name: 'files/612.png'
+  return self._open_to_write(zinfo, force_zip64=force_zip64)
+
+INFO:stderr:C:\Users\lvsit\AppData\Local\Programs\Python\Python37\lib\zipfile.py:1470: UserWarning: Duplicate name: 'files/704.png'
+  return self._open_to_write(zinfo, force_zip64=force_zip64)
+
+INFO:stderr:C:\Users\lvsit\AppData\Local\Programs\Python\Python37\lib\zipfile.py:1470: UserWarning: Duplicate name: 'files/705.png'
+  return self._open_to_write(zinfo, force_zip64=force_zip64)
+
+INFO:stderr:C:\Users\lvsit\AppData\Local\Programs\Python\Python37\lib\zipfile.py:1470: UserWarning: Duplicate name: 'files/801.png'
+  return self._open_to_write(zinfo, force_zip64=force_zip64)
+
+INFO:stderr:C:\Users\lvsit\AppData\Local\Programs\Python\Python37\lib\zipfile.py:1470: UserWarning: Duplicate name: 'files/231.png'
+  return self._open_to_write(zinfo, force_zip64=force_zip64)
+
+INFO:stderr:C:\Users\lvsit\AppData\Local\Programs\Python\Python37\lib\zipfile.py:1470: UserWarning: Duplicate name: 'files/209.png'
+  return self._open_to_write(zinfo, force_zip64=force_zip64)
+
+INFO:stderr:C:\Users\lvsit\AppData\Local\Programs\Python\Python37\lib\zipfile.py:1470: UserWarning: Duplicate name: 'files/338.png'
+  return self._open_to_write(zinfo, force_zip64=force_zip64)
+
+INFO:stderr:C:\Users\lvsit\AppData\Local\Programs\Python\Python37\lib\zipfile.py:1470: UserWarning: Duplicate name: 'files/201.png'
+  return self._open_to_write(zinfo, force_zip64=force_zip64)
+
+INFO:stderr:C:\Users\lvsit\AppData\Local\Programs\Python\Python37\lib\zipfile.py:1470: UserWarning: Duplicate name: 'files/198.png'
+  return self._open_to_write(zinfo, force_zip64=force_zip64)
+
+INFO:stderr:C:\Users\lvsit\AppData\Local\Programs\Python\Python37\lib\zipfile.py:1470: UserWarning: Duplicate name: 'files/106.png'
+  return self._open_to_write(zinfo, force_zip64=force_zip64)
+

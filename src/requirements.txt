@@ -1,0 +1,8 @@
+Pillow==2.8.1
+Pmw==2.0.0
+cx-Freeze==4.3.4
+jdcal==1.0
+simplekml==1.2.8
+openpyxl==3.0.9
+xlrd==0.9.3
+xlwt==1.0.0

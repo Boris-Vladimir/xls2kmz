@@ -1,0 +1,162 @@
+[33mcommit f6eacac276adc5a362d3e45f01c05aa5d80bb5a8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Lvsitanvs Albicastrensis <lvsitanvs.albicastrensis@gmail.com>
+Date:   Wed Aug 25 16:14:27 2021 +0100
+
+    corrected bug in 'next_coordinate'
+
+[33mcommit 78ea64a531af8ddfe6731f667feb4da9433146de[m
+Author: Vladimir Oicnanev <lvsitanvs.albicastrensis@gmail.com>
+Date:   Tue Aug 24 16:39:47 2021 +0100
+
+    refactor src files
+
+[33mcommit 09cbf16a5b88a705a373a31b4bb632309d9aff9d[m
+Author: Vladimir Oicnanev <lvsitanvs.albicastrensis@gmail.com>
+Date:   Tue Aug 24 16:08:45 2021 +0100
+
+    remove old setup files
+
+[33mcommit 1902d3aaadf54ea89164520237127cf967dbe630[m
+Author: Vladimir Oicnanev <lvsitanvs.albicastrensis@gmail.com>
+Date:   Tue Aug 24 15:51:25 2021 +0100
+
+    remove some bugs from version 2.0.2 to 2.0.3
+
+[33mcommit ffa68b2d8ab572daf0dea09cbed82d5f8082eb75[m
+Author: Lvsitanvs Albicastrensis <lvsitanvs.albicastrensis@gmail.com>
+Date:   Fri Mar 19 15:38:09 2021 +0000
+
+    add the possibility to rotate more icons
+
+[33mcommit b22cd077c4ecd072f7be44b4cede4dd7952f62c7[m
+Author: Lvsitanvs Albicastrensis <lvsitanvs.albicastrensis@gmail.com>
+Date:   Fri Feb 15 10:07:23 2019 +0000
+
+    added new icons
+
+[33mcommit fafbdb9a72805de29a18f16e1f7de4c4e697cc35[m
+Author: Lvsitanvs Albicastrensis <lvsitanvs.albicastrensis@gmail.com>
+Date:   Thu Feb 14 16:42:38 2019 +0000
+
+    Change Distro to zip file
+
+[33mcommit 32f209268f132754022dc5f802466d447bc25bc4[m
+Author: Lvsitanvs Albicastrensis <lvsitanvs.albicastrensis@gmail.com>
+Date:   Thu Feb 14 16:35:03 2019 +0000
+
+    update readme
+
+[33mcommit 34650f676a3359b9eaf7b92520636885d499f438[m
+Author: Lvsitanvs Albicastrensis <lvsitanvs.albicastrensis@gmail.com>
+Date:   Thu Feb 14 16:31:32 2019 +0000
+
+    made an exe with auto-py-to-exe
+
+[33mcommit a160a3882f501c625c16f681ccdced3499eb2343[m
+Author: Lvsitanvs Albicastrensis <lvsitanvs.albicastrensis@gmail.com>
+Date:   Fri Feb 8 15:11:52 2019 +0000
+
+    correct bug in coordinates
+
+[33mcommit 7d6049a184727455f81df01e2b5128ba8ec4af98[m
+Author: Lvsitanvs Albicastrensis <lvsitanvs.albicastrensis@gmail.com>
+Date:   Fri Feb 8 11:06:29 2019 +0000
+
+    correct bug in coordinates
+
+[33mcommit f2a2661dfc7520d038c42b9ace814ddd536df7bb[m
+Author: Lvsitanvs Albicastrensis <lvsitanvs.albicastrensis@gmail.com>
+Date:   Mon Jan 28 15:27:26 2019 +0000
+
+    changed MAX_NUM_ROWS from 5000 to 50000
+
+[33mcommit d9293a6269222f515fc9fcef03dab99ec45c7041[m
+Author: Vladimir <lvsitanvs.albicastrensis@gmail.com>
+Date:   Wed Nov 14 16:59:57 2018 +0000
+
+    version 2.0.1 - correct 2 bugs
+
+[33mcommit 5c9d8d9b4f60714ac06963a4ee147d9726755eb1[m
+Author: Nuno Venâncio <lvsitanvs.albicastrensis@gmail.com>
+Date:   Wed Sep 16 11:31:38 2015 +0100
+
+    correct bug - names in points doesn't apear correctely
+
+[33mcommit 4b7022f6ebacef18223a1d28519439c7be56016b[m
+Author: Nuno Venâncio <lvsitanvs.albicastrensis@gmail.com>
+Date:   Wed Sep 9 14:33:54 2015 +0100
+
+    1.7.1 - points are only build if 'icon' field is present
+
+[33mcommit cc8372189b2c8347af4e013fe826c2df15a7da2b[m
+Author: lvsitanvs <lvsitanvs.albicastrensis@gmail.com>
+Date:   Thu Aug 27 18:35:56 2015 +0100
+
+    add info to .aip (advanced installer project)
+
+[33mcommit c58b6bbce43185d448e1235987b8095dac1cf7be[m
+Merge: d531561 5a9e60e
+Author: Nuno Venâncio <lvsitanvs.albicastrensis@gmail.com>
+Date:   Wed Aug 26 15:04:22 2015 +0100
+
+    Merge branch 'master' of https://bitbucket.org/lvsitanvs/excel-to-kmz-transformer
+
+[33mcommit d5315614a2f33af27933d33dbbf691dd8f760523[m
+Author: Nuno Venâncio <lvsitanvs.albicastrensis@gmail.com>
+Date:   Wed Aug 26 14:29:00 2015 +0100
+
+    more desktop.ini removed
+
+[33mcommit 5a9e60e1c185aef38b47ecb628a3fccc846db434[m
+Author: Nuno Venâncio <lvsitanvs.albicastrensis@gmail.com>
+Date:   Wed Aug 26 13:24:48 2015 +0000
+
+    README.md edited online with Bitbucket
+
+[33mcommit e213a8882745bb8badd1a8d45556f3e969d5e7d3[m
+Author: Nuno Venâncio <lvsitanvs.albicastrensis@gmail.com>
+Date:   Wed Aug 26 11:24:52 2015 +0000
+
+    README.md edited online with Bitbucket
+
+[33mcommit 67f9ca33ca6e4ce48f5db95e2dc51d2dc8bc57e9[m
+Author: Nuno Venâncio <lvsitanvs.albicastrensis@gmail.com>
+Date:   Wed Aug 26 10:01:24 2015 +0000
+
+    README.md edited online with Bitbucket
+
+[33mcommit 8f289451ae6d234e97011bb26f1ddeb7b69e458d[m
+Author: Nuno Venâncio <lvsitanvs.albicastrensis@gmail.com>
+Date:   Wed Aug 26 09:56:40 2015 +0000
+
+    README.md edited online with Bitbucket
+
+[33mcommit e30810e679f719761e99fb854649f1b00ba50cb4[m
+Author: Nuno Venâncio <lvsitanvs.albicastrensis@gmail.com>
+Date:   Wed Aug 26 09:54:47 2015 +0000
+
+    README.md edited online with Bitbucket
+
+[33mcommit a9af05410a191a1d5e57309ebe8285df389a9c31[m
+Author: Nuno Venâncio <lvsitanvs.albicastrensis@gmail.com>
+Date:   Wed Aug 26 09:54:25 2015 +0000
+
+    README.md edited online with Bitbucket
+
+[33mcommit f829b6d630509f25c6716ad47b3933d1ad858e0c[m
+Author: Nuno Venâncio <lvsitanvs.albicastrensis@gmail.com>
+Date:   Wed Aug 26 10:03:37 2015 +0100
+
+    dektop.ini 2
+
+[33mcommit af6929ba1dd73bb6a70a5dd99faf11c8e1b4faef[m
+Author: Nuno Venâncio <lvsitanvs.albicastrensis@gmail.com>
+Date:   Tue Aug 25 17:33:46 2015 +0100
+
+    remove desktop.ini
+
+[33mcommit e244d68b1eeedcc486d9dfc81db626fe9a17dbd2[m
+Author: Nuno Venâncio <lvsitanvs.albicastrensis@gmail.com>
+Date:   Tue Aug 25 17:13:02 2015 +0100
+
+    version 1.7
