@@ -1,6 +1,6 @@
 # EXCEL TO KMZ TRANSFORMER #
 
-![excel-kmz.jpg](https://bitbucket.org/repo/byj67a/images/677727102-excel-kmz.jpg)
+![excel-kmz.jpg](./setup%20files/icons/excel-kmz.jpg)
 
 Excel to KMZ Transformer is an open source (GNU GPL licence - http://www.gnu.org/licences/gpl.html) app
 that reads an Excel file with geographic coordinates and draw points, polygons, linestrings, etc., in 
@@ -16,35 +16,30 @@ The Excel file only need to have the rows: latitude, longitude, name and descrip
 
 ### Project Structure ###
 
-* [Distro](https://bitbucket.org/lvsitanvs/excel-to-kmz-transformer/src/master/Distro/) - executable file made with auto-py-to-exe(https://pypi.org/project/auto-py-to-exe/)
-* [setup files](https://bitbucket.org/lvsitanvs/excel-to-kmz-transformer/src/67f9ca33ca6e4ce48f5db95e2dc51d2dc8bc57e9/setup%20files/?at=master) - project files to make an executable with auto-py-to-exe(https://pypi.org/project/auto-py-to-exe/)
-* [src](https://bitbucket.org/lvsitanvs/excel-to-kmz-transformer/src/67f9ca33ca6e4ce48f5db95e2dc51d2dc8bc57e9/src/?at=master) - project source code
+* [Distro](./distro/) - executable file made with auto-py-to-exe(https://pypi.org/project/auto-py-to-exe/)
+* [setup files](./setup%20files/) - project files to make an executable with auto-py-to-exe(https://pypi.org/project/auto-py-to-exe/)
+* [src](./src/) - project source code
 
 ### Links to Manual and Examples ###
 
-* [Manual](https://bitbucket.org/lvsitanvs/excel-to-kmz-transformer/src/67f9ca33ca6e4ce48f5db95e2dc51d2dc8bc57e9/src/docs/manual.pdf?at=master)
-* [KMZ Icons](https://bitbucket.org/lvsitanvs/excel-to-kmz-transformer/src/67f9ca33ca6e4ce48f5db95e2dc51d2dc8bc57e9/src/docs/icons.pdf?at=master)
-* [KMZ Colors](https://bitbucket.org/lvsitanvs/excel-to-kmz-transformer/src/67f9ca33ca6e4ce48f5db95e2dc51d2dc8bc57e9/src/docs/colors.pdf?at=master)
+* [Manual](./setup%20files/docs/manual.pdf)
+* [KMZ Icons](./setup%20files/docs/icons.pdf)
+* [KMZ Colors](./setup%20files/docs/colors.pdf)
 * Examples:
     * KMZ with foto in the descriptive ballon:
-        * [Excel](https://bitbucket.org/lvsitanvs/excel-to-kmz-transformer/src/67f9ca33ca6e4ce48f5db95e2dc51d2dc8bc57e9/src/docs/Foto.xlsx?at=master)
-        * [KMZ](https://bitbucket.org/lvsitanvs/excel-to-kmz-transformer/src/67f9ca33ca6e4ce48f5db95e2dc51d2dc8bc57e9/src/docs/Foto.kmz?at=master)
+        * [Excel](./setup%20files/docs/Foto.xls)
+        * [KMZ](./setup%20files/docs/Foto.kmz)
     * KMZ with GPS Tracking:
-        * [Excel](https://bitbucket.org/lvsitanvs/excel-to-kmz-transformer/src/67f9ca33ca6e4ce48f5db95e2dc51d2dc8bc57e9/src/docs/GPS.xlsx?at=master)
-        * [KMZ](https://bitbucket.org/lvsitanvs/excel-to-kmz-transformer/src/67f9ca33ca6e4ce48f5db95e2dc51d2dc8bc57e9/src/docs/GPS.kmz?at=master)
+        * [Excel](./setup%20files/docs/GPS.xls)
+        * [KMZ](./setup%20files/docs/GPS.kmz)
     * KMZ with triangular Polygon:
-        * [Excel](https://bitbucket.org/lvsitanvs/excel-to-kmz-transformer/src/67f9ca33ca6e4ce48f5db95e2dc51d2dc8bc57e9/src/docs/Celulas.xlsx?at=master)
-        * [KMZ](https://bitbucket.org/lvsitanvs/excel-to-kmz-transformer/src/67f9ca33ca6e4ce48f5db95e2dc51d2dc8bc57e9/src/docs/Celulas.kmz?at=master)
+        * [Excel](./setup%20files/docs/Celulas.xls)
+        * [KMZ](./setup%20files/docs/Celulas.kmz)
     * KMZ with squared Polygon:
-        * [Excel](https://bitbucket.org/lvsitanvs/excel-to-kmz-transformer/src/67f9ca33ca6e4ce48f5db95e2dc51d2dc8bc57e9/src/docs/Quadrado.xls?at=master)
-        * [KMZ](https://bitbucket.org/lvsitanvs/excel-to-kmz-transformer/src/67f9ca33ca6e4ce48f5db95e2dc51d2dc8bc57e9/src/docs/Quadrado.kmz?at=master)
+        * [Excel](./setup%20files/docs/Quadrado.xls)
+        * [KMZ](./setup%20files/docs/Quadrado.kmz)
 
-### Screenshot ###
-
-* Main Window
-
-![Excel2KMZ.PNG](https://bitbucket.org/repo/byj67a/images/2389956657-Excel2KMZ.PNG)
 
 ### About ###
 
-* Developed at Boris & Vladimir Software, a fictious team working for the DP - UAF - GNR, by Nuno Ven�ncio
+* Developed at Boris & Vladimir Software, a fictious team working for the DP - UAF - GNR, by Nuno Venancio
